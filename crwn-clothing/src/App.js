@@ -7,7 +7,7 @@ import Authentication from "./routes/authentication/authentication.component";
 const Shop = () => {
   return (
     <div>
-      <h1>Hi, I Am The Shop Page!</h1>
+      <h1>Hi, I Am The Shop Page...</h1>
     </div>
   );
 };
