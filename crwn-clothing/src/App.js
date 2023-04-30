@@ -12,6 +12,10 @@ const Shop = () => {
   );
 };
 
+const Explorer = () => {
+  return <div>Explorer</div>;
+};
+
 const App = () => {
   return (
     <Routes>
