@@ -3,14 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./routes/home/home.components";
 import Navigation from "./routes/navigation/navigation.component";
 import Authentication from "./routes/authentication/authentication.component";
-
-const Shop = () => {
-  return (
-    <div>
-      <h1>Hi, I Am The Shop Page!</h1>
-    </div>
-  );
-};
+import Shop from "./routes/shop/shop.component";
 
 const App = () => {
   return (
